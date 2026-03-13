@@ -1,0 +1,33 @@
+# Unity generated
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# Unity cache files
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db

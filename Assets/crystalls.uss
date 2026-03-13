@@ -1,0 +1,31 @@
+:root {
+}
+
+.text {
+    font-size: 10px;
+    -unity-font-definition: url("project://database/Assets/AveriaSerifLibre-Regular.ttf?fileID=12800000&guid=0defbe44ecb064be4bcf1cf7574f5c39&type=3#AveriaSerifLibre-Regular");
+    color: rgb(219, 226, 243);
+    -unity-font-style: normal;
+}
+
+.title {
+    font-size: 40px;
+    -unity-font-definition: url("project://database/Assets/AveriaSerifLibre-Regular.ttf?fileID=12800000&guid=0defbe44ecb064be4bcf1cf7574f5c39&type=3#AveriaSerifLibre-Regular");
+    color: rgb(245, 245, 245);
+}
+
+.unity-base-field__label {
+    min-width: 70px;
+}
+
+.unity-base-slider--horizontal .unity-base-slider__dragger {
+    border-width: 0;
+    background-color: white;
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+    margin-top: -7px;
+}
+
+.color_button {
+}
