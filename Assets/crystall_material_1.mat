@@ -44,15 +44,15 @@ Material:
     - _bottomline: 0.448
     - _metallic: 0.588
     - _smoothness: 0.95
-    - _top_line: 0.68
+    - _top_line: 0.665
     - _topline: 0.543
     m_Colors:
     - _Color: {r: 0.6039216, g: 0.019607851, b: 0.5191518, a: 1}
-    - _base_color: {r: 1.1587474, g: 0.04919209, b: 1.1149493, a: 1}
-    - _bottom_color: {r: 19.616003, g: 0.09252854, b: 6.770357, a: 1}
+    - _base_color: {r: 0.32643825, g: 1.1587474, b: 0.05460063, a: 1}
+    - _bottom_color: {r: 19.616001, g: 13.723115, b: 0.20540355, a: 1}
     - _bottomcolor: {r: 36.410706, g: 2.5762289, b: 12.873685, a: 1}
     - _main_color: {r: 1.1886792, g: 0, b: 0.64464766, a: 1}
-    - _top_color: {r: 1.3885173, g: 4.283411, b: 12.798505, a: 1}
+    - _top_color: {r: 0, g: 9.441468, b: 14.669039, a: 1}
     - _topcolor: {r: 0.1198565, g: 0.91850615, b: 3.270369, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

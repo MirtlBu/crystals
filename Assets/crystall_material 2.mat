@@ -20,7 +20,7 @@ Material:
   stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
-  m_LockedProperties: 
+  m_LockedProperties: :m_DoubleSidedGI _smoothness _top_color
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -40,19 +40,19 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _bottom_line: 0.49
+    - _bottom_line: 0.55
     - _bottomline: 0.448
-    - _metallic: 0.6
-    - _smoothness: 0.9
-    - _top_line: 0.74
+    - _metallic: 0.824
+    - _smoothness: 0.809
+    - _top_line: 0.64
     - _topline: 0.543
     m_Colors:
     - _Color: {r: 0.0352941, g: 0.5764706, b: 0.4835248, a: 1}
-    - _base_color: {r: 0.764151, g: 0.010813437, b: 0.048053704, a: 1}
-    - _bottom_color: {r: 18.705212, g: 11.248349, b: 0.44116062, a: 1}
+    - _base_color: {r: 0.07449267, g: 0.5351993, b: 1.754717, a: 1}
+    - _bottom_color: {r: 3.7358491, g: 2.0743113, b: 0.017621972, a: 1}
     - _bottomcolor: {r: 36.4107, g: 15.614025, b: 2.668846, a: 1}
     - _main_color: {r: 0.030043997, g: 0.26217058, b: 0.70770335, a: 1}
-    - _top_color: {r: 27.968836, g: 0.73216826, b: 1.265563, a: 1}
+    - _top_color: {r: 2.7078428, g: 0, b: 2.9960785, a: 1}
     - _topcolor: {r: 3.270369, g: 2.2225835, b: 0.13697888, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
